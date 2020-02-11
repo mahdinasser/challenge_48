@@ -1,0 +1,125 @@
+header{
+    background-color: #2c3e50;
+    display: flex;
+    font-size: 20px;
+    justify-content:  space-between;
+    text-decoration: none;
+
+}
+body {
+    margin: ;
+}
+header nav ul a{
+    text-decoration: none;
+    color: white;
+}
+header nav li{
+    display: inline-block;
+    margin: 20px 20px;
+    text-decoration: none;
+}
+   
+    .contact-details .form-information{
+        margin: 10px 0px;
+    }
+    .contact-details {
+        display: flex;
+        font-weight: bold;
+        position: relative;
+    }
+    .contact-details .form-information label {
+        display: block;
+        margin: 10px
+    }
+    .contact-details .form-information input[type="text"] {
+        height: 35px;
+        width: 350px;
+        border: 2px solid black;
+        border-color: #919191;
+        border-style: solid; 
+        font-size: 20px
+        padding-left : 10px;
+    }
+    .contact-details .form-information input[type=text]:focus {
+        border: 5px solid #2879E3;
+        outline: none;
+        transition: 0.3s ease-in;
+    }
+   
+    
+    .contact-details .form-information textarea {
+        width: 350px;
+        border: 2px solid #919191;
+        color: black;
+        font-size: 20px;
+        padding-left: 10px;
+    
+    } 
+    .contact-details .form-information textarea[type=text]:focus {
+        border: 5px solid #2879E3;
+        outline: none;
+        transition: 0.3s ease-in;
+    }
+
+    .contact-details input[type="submit"] {
+        padding: 20px;
+        width: 150px;
+        height: 45px;
+        text-transform: uppercase;
+        background-color: black;
+        color: white;
+    
+    }
+
+        .contact-details .form-information{
+        margin: 10px 0px;
+    }
+    
+    .contact-details .form-information label {
+        display: block;
+        margin: 10px
+    }
+    .contact-details .form-information input[type="text"] {
+        height: 35px;
+        width: 350px;
+        border: 2px solid black;
+        border-color: #919191;
+        border-style: solid; 
+        font-size: 20px
+        padding-left : 10px;
+    }
+    .contact-details .form-information input[type=text]:focus {
+        border: 5px solid #2879E3;
+        outline: none;
+        transition: 0.3s ease-in;
+    }
+   
+    
+    .contact-details .form-information textarea {
+        width: 350px;
+        border: 2px solid #919191;
+        color: black;
+        font-size: 20px;
+        padding-left: 10px;
+    
+    } 
+    .contact-details .form-information textarea[type=text]:focus {
+        border: 5px solid #2879E3;
+        outline: none;
+        transition: 0.3s ease-in;
+    }
+
+    .contact-details input[type="submit"] {
+        padding: 20px;
+        width: 150px;
+        height: 45px;
+        text-transform: uppercase;
+        background-color: black;
+        color: white;
+    
+    }
+
+    .contact-details .contact-form-content{
+        width: 50%;
+        position: absolute;
+    }
